@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Library</string>
+
+    <string name="copy_txt">拷贝崩溃文本</string>
+    <string name="share_txt">分享崩溃文本</string>
+    <string name="share_img">分享崩溃图片</string>
+</resources>
