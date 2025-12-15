@@ -3,7 +3,7 @@
 
    <application>
        <provider
-           android:name="androidx.core.content.FileProvider"
+           android:name=".SpiderCrashFileProvider"
            android:authorities="${applicationId}.spiderfileprovider"
            android:exported="false"
            android:grantUriPermissions="true">
